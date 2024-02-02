@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "mongoose": "^8.1.1"
+  },
+  "name": "mongodb-mongoose8-test",
+  "version": "1.0.0",
+  "description": "mongodb microtest using mongoose",
+  "main": "db.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node readData.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahndev/mongodb-mongoose8-test.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "jahndev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jahndev/mongodb-mongoose8-test/issues"
+  },
+  "homepage": "https://github.com/jahndev/mongodb-mongoose8-test#readme"
+}
